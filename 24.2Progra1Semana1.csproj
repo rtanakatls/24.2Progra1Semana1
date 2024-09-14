@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="FigureMenu.cs" />
     <Compile Include="Game\Armor.cs" />
+    <Compile Include="Game\Enemy.cs" />
     <Compile Include="Game\GameMenu.cs" />
     <Compile Include="Game\IPickable.cs" />
     <Compile Include="Game\Item.cs" />
