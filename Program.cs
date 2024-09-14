@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _24._2Progra1Semana1.Game;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,7 @@ namespace _24._2Progra1Semana1
     {
         static void Main(string[] args)
         {
-            Menu menu = new Menu();
+            GameMenu menu = new GameMenu();
             menu.Execute();
         }
 
