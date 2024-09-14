@@ -8,7 +8,6 @@ namespace _24._2Progra1Semana1
 {
     internal class Program
     {
-        //El programa inicia acá
         static void Main(string[] args)
         {
             Menu menu = new Menu();
